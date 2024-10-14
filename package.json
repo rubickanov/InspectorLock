@@ -1,0 +1,7 @@
+{
+  "name": "com.rubickanov.inspectorlock",
+  "version": "1.0.0",
+  "displayName": "Inspector Lock Shortcut",
+  "description": "Allows 'lock/unlock' inspector using ctrl-L. Code copied from git-amend video \"https://www.youtube.com/watch?v=-3SnFiJwgRM&t=379s\" for educational and personal purposes.",
+  "unity": "2019.1"
+}
